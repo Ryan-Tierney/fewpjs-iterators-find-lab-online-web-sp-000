@@ -11,5 +11,5 @@ const record = [
 
 
 function superbowlWin(record) { 
-  array.find(result => result === "W")
+  result.find(result => result === "W")
 }
