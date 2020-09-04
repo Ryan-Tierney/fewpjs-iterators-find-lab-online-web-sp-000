@@ -11,5 +11,5 @@ const record = [
 
 
 function superbowlWin(record) { 
-  record.find(record => record.result === "W")
+  let result = record.find(record => record.result === "W")
 }
