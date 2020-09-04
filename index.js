@@ -4,4 +4,5 @@ function testFunc() {
   return "hi"
 }
 
-function superBowlWin 
+function superBowlWin(array) { 
+}
